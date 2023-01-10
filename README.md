@@ -68,8 +68,7 @@ Coupled power plant-geostorage parameters. The reference temperature and pressur
 ### Plant performance
 
 <figure>
-<img src="./figures/power_plant_performance_light.svg
-" class="align-center" />
+<img src="./figures/power_plant_performance_light.svg" class="align-center" />
 </figure>
 
 *Power plant performance during continuous charging (top row: a, b, c) and discharging (bottom row: d, e, f) runs*
@@ -101,8 +100,7 @@ Initial air in place mass  |                                5.56 Mt
 Maximum/minimum allowable BHP  |                            130 / 80 bar
 
 <figure>
-<img src="./figures/geostorage_enhancements.svg
-" class="align-center" />
+<img src="./figures/geostorage_enhancements.svg" class="align-center" />
 </figure>
 
 *Geostorage configuration schemes (top row: abc) and simulation results (bottom row: def)*
