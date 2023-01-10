@@ -1,7 +1,5 @@
 # Integrated_CASE_Assessment
 
-Modellieren von Geoenergiesystemen
-
 This repository contains inputs for integrated PM-CAES assessment using a set of future energy system scenarios with different fractions of renewable energy supply developed by [oemof](https://github.com/znes/angus-scenarios), as well as different technical options for the power plant topology built via [TESPy](https://github.com/oemof/tespy) and subsurface storage configurations modelled in ECLIPSE simulator.
 <figure>
 <img src="./figures/graphical-abstract_light.svg" class="align-center" />
