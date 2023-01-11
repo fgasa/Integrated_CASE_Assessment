@@ -10,13 +10,15 @@ This repository contains inputs for integrated PM-CAES assessment using a set of
 
 ## Energy system dispatch model
 
-| Scenario year      | Power plant type |  Renewable share [%]     |  Average shadow electricity price [EUR/MWh] |  CO2 emission price [EUR/t]    |   |   |   |
-|--------------------|------------------|--------------------------|---------------------------------------------|--------------------------------|---|---|---|
-| 2030               |  D-CAES          |     76.3                 |          52.6                               |         29.4                   |   |   |   |
-| 2040               |  D-CAES          |     85.9                 |          83.7                               |         126.0                  |   |   |   |
-| 2050               |  D-CAES          |     100.0                |         88.3                                |          150.0                 |   |   |   |
-| 2030               |  2-AA-CAES       |     76.3                 |          76.3                               |           -                    |   |   |   |
-| 2030               |  3-AA-CAES       |     76.3                 |          76.3                               |            -                   |   |   |   |
+Optimised dispatch model based on several assumptions, where three shadow electricity pricies (scenario developed within [ANGUS project](https://zenodo.org/record/3714708)), CO<sub>2</sub> emission and fuel prices  are inputs for Gurobi.  
+
+|Scenario year|Power plant type|Renewable share [%]|Average shadow electricity price [EUR/MWh]|CO<sub>2</sub> emission price [EUR/t]|Fuel price [EUR/MWh]| Scenario reference|
+|:----|:----|:----|:----|:----|:----|:----|
+|2030|D-CAES|76.3|52.6|29.4|26.40|2030NEPC|
+|2040|D-CAES |85.9|83.7|126.0|30.24|2040GCA|
+|2050|D-CAES |100.0|88.3|150.0|43.72|2050NB|
+|2030|2-AA-CAES|76.3|52.6|- |-|2030NEPC|
+|2030|3-AA-CAES|76.3|52.6|-|-|2030NEPC|
 
 
 <picture>
@@ -110,7 +112,7 @@ Max. relative water permeability  |                         1
 Capillary entry pressure  |                                 0.1 bar
 Pore size distribution index  |                             2
 Initial air in place mass  |                                5.56 Mt
-Maximum/minimum allowable BHP  |                            130 / 80 bar
+Maximum/minimum allowable BHP  |                            130 bar / 80 bar
 
 
 
@@ -119,7 +121,8 @@ Maximum/minimum allowable BHP  |                            130 / 80 bar
   <source media="(prefers-color-scheme: light)" srcset="./figures/geostorage_setup_light.svg">
   <img alt="Geostorage configuration schemes">
 </picture>
-*Geostorage configuration schemes (top row: abc) and simulation results (bottom row: def)*
+
+*Geostorage configuration schemes for different well setups*
 
 
 
@@ -128,3 +131,4 @@ Maximum/minimum allowable BHP  |                            130 / 80 bar
 - TESPy Version 0.4.2 - User's Universe, __doi:10.5281/zenodo.4534878__
 - National scale energy system scenarios, __doi:10.5281/zenodo.3714708__
 - ECLIPSE Reservoir Simulation Software v2017.2, Schlumberger Ltd.
+- LLC Gurobi Optimization. Gurobi Optimizer Reference Manual, 2021.  
