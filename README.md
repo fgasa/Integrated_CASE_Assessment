@@ -1,11 +1,12 @@
-# Integrated_CASE_Assessment
-
-Modellieren von Geoenergiesystemen
+# Integrated CASE Assessment
 
 This repository contains inputs for integrated PM-CAES assessment using a set of future energy system scenarios with different fractions of renewable energy supply developed by [oemof](https://github.com/znes/angus-scenarios), as well as different technical options for the power plant topology built via [TESPy](https://github.com/oemof/tespy) and subsurface storage configurations modelled in ECLIPSE simulator.
-<figure>
-<img src="./figures/graphical-abstract_light.svg" class="align-center" />
-</figure>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./figures/graphical-abstract_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./figures/graphical-abstract_light.svg">
+  <img alt="power plant setups">
+</picture>
 
 ## Energy system dispatch model
 
@@ -18,6 +19,14 @@ This repository contains inputs for integrated PM-CAES assessment using a set of
 | 2030               |  3-AA-CAES       |     76.3                 |          76.3                               |            -                   |   |   |   |
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./figures/load_profiles_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./figures/load_profiles_light.svg">
+  <img alt="power plant setups">
+</picture>
+
+
+
 ## Surface power plant topology
 
   - __diabatic__ topology with 3-stage compression and 2-stage expansion stages including a heat recuperator to preheat the air from the storage 
@@ -25,11 +34,12 @@ This repository contains inputs for integrated PM-CAES assessment using a set of
   - __adiabatic__ plant with 3-stage compression and expansion stages
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./figures/power_plant_topologies_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./figures/power_plant_topologies_light.svg">
+  <img alt="power plant setups">
+</picture>
 
-
-<figure>
-<img src="./figures/power_plant_topologies.svg" class="align-center" />
-</figure>
 
 
 Coupled power plant-geostorage parameters. The reference temperature and pressure are 273.15 K and 1.013 bar.
@@ -67,9 +77,12 @@ Coupled power plant-geostorage parameters. The reference temperature and pressur
 
 ### Plant performance
 
-<figure>
-<img src="./figures/power_plant_performance_light.svg" class="align-center" />
-</figure>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./figures/power_plant_performance_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./figures/power_plant_performance_light.svg">
+  <img alt="power plant capacity durining continuous chargining and discharging tests">
+</picture>
 
 *Power plant performance during continuous charging (top row: a, b, c) and discharging (bottom row: d, e, f) runs*
 
@@ -99,10 +112,13 @@ Pore size distribution index  |                             2
 Initial air in place mass  |                                5.56 Mt
 Maximum/minimum allowable BHP  |                            130 / 80 bar
 
-<figure>
-<img src="./figures/geostorage_enhancements.svg" class="align-center" />
-</figure>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./figures/geostorage_setup_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./figures/geostorage_setup_light.svg">
+  <img alt="Geostorage configuration schemes">
+</picture>
 *Geostorage configuration schemes (top row: abc) and simulation results (bottom row: def)*
 
 
