@@ -1,0 +1,490 @@
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	YEARS       	DAY         	MONTH       	YEAR        	FWPR        	FWPT        	FWIR        	FWIT        	FGPR        
+ 	            	YEARS       	            	            	            	SM3/DAY     	SM3         	SM3/DAY     	SM3         	SM3/DAY     
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	            	            	            	            	            	            	            	            	            
+	 01-JAN-2020	        0	           1	           1	        2020	           0	           0	           0	           0	           0	    
+	 01-JAN-2020	 0.000114	           1	           1	        2020	           0	           0	           0	           0	           0	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	FGPT        	FGIR        	FGIT        	FVPR        	FVPT        	FVIR        	FVIT        	FWCT        	FGOR        
+ 	            	SM3         	SM3/DAY     	SM3         	RM3/DAY     	RM3         	RM3/DAY     	RM3         	            	SM3/SM3     
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	            	            	            	            	            	            	            	            	            
+	 01-JAN-2020	        0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 01-JAN-2020	        0	           0	           0	           0	           0	           0	           0	           0	           0	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	FWGR        	FWIP        	FGIP        	FGIPL       	FGIPG       	FPR         	FPPC        	FGIP        	RGIP        
+ 	            	SM3/SM3     	SM3         	SM3         	SM3         	SM3         	BARSA       	BARSA       	SM3         	SM3         
+ 	            	            	*10**6      	*10**3      	            	*10**3      	            	            	*10**3      	*10**3      
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	            	            	            	            	            	            	            	            	1           
+	 01-JAN-2020	        0	    28439.05	    4636694.	           0	    4636694.	    113.0293	    -2.23704	    4636694.	    4636694.	    
+	 01-JAN-2020	        0	    28439.05	    4636694.	           0	    4636694.	    113.0288	    -2.23750	    4636694.	    4636694.	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	RGIP        	FGPV        	RGPV        	RGPV        	FRPV        	RRPV        	RRPV        	FPR         	RPR         
+ 	            	SM3         	RM3         	RM3         	RM3         	RM3         	RM3         	RM3         	BARSA       	BARSA       
+ 	            	            	*10**3      	*10**3      	            	*10**6      	*10**3      	*10**6      	            	            
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	2           	            	1           	2           	            	1           	2           	            	1           
+	 01-JAN-2020	        0	    44291.69	    44291.69	           0	    26537.90	    934117.3	    25603.78	    113.0293	    113.0293	    
+	 01-JAN-2020	        0	    44291.87	    44291.87	           0	    26537.90	    934117.3	    25603.78	    113.0288	    113.0288	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	RPR         	FGPT        	FGIT        	FWPT        	FWIT        	FGPRT       	FGIRT       	FVPR        	FVIR        
+ 	            	BARSA       	SM3         	SM3         	SM3         	SM3         	SM3/DAY     	SM3/DAY     	RM3/DAY     	RM3/DAY     
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	2           	            	            	            	            	            	            	            	            
+	 01-JAN-2020	 137.8777	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 01-JAN-2020	 137.8779	           0	           0	           0	           0	           0	           0	           0	           0	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	FWCT        	FWGR        	BFLOWI      	BFLOWI      	BFLOWI      	BFLOWI      	BFLOWI      	BFLOWI      	BFLOWI      
+ 	            	            	SM3/SM3     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	            	            	73  65   1  	74  65   1  	75  65   1  	76  65   1  	77  65   1  	106  65   1 	107  65   1 
+	 01-JAN-2020	        0	           0	    -0.00021	    -0.00011	    -4.4E-05	    -2.0E-05	    -8.1E-06	    1.726997	    1.711088	    
+	 01-JAN-2020	        0	           0	    -0.00021	    -0.00011	    -4.5E-05	    -2.0E-05	    -7.1E-06	    1.729329	    1.710858	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BFLOWI      	BFLOWI      	BFLOWI      	BFLOWI      	BFLOWI      	BFLOWI      	BFLOWI      	BFLOWI      	BFLOWJ      
+ 	            	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	108  65   1 	109  65   1 	137  65   1 	138  65   1 	139  65   1 	140  65   1 	141  65   1 	142  65   1 	73  65   1  
+	 01-JAN-2020	 1.674638	    1.639072	    0.491892	    0.390540	    0.290677	    0.199365	    0.108895	           0	    -0.00021	    
+	 01-JAN-2020	 1.676583	    1.643165	    0.492694	    0.390022	    0.290535	    0.199170	    0.108916	           0	    -0.00021	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BFLOWJ      	BFLOWJ      	BFLOWJ      	BFLOWJ      	BFLOWJ      	BFLOWJ      	BFLOWJ      	BFLOWJ      	BFLOWJ      
+ 	            	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	74  65   1  	75  65   1  	76  65   1  	77  65   1  	106  65   1 	107  65   1 	108  65   1 	109  65   1 	137  65   1 
+	 01-JAN-2020	 -7.5E-05	    -1.6E-05	    -5.7E-06	    3.61E-06	    0.388241	    0.390685	    0.393313	    0.373017	    1.496076	    
+	 01-JAN-2020	 -7.4E-05	    -1.6E-05	    -4.3E-06	    4.12E-06	    0.401779	    0.398977	    0.391872	    0.383447	    1.546672	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BFLOWJ      	BFLOWJ      	BFLOWJ      	BFLOWJ      	BFLOWJ      	BFLOWK      	BFLOWK      	BFLOWK      	BFLOWK      
+ 	            	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	138  65   1 	139  65   1 	140  65   1 	141  65   1 	142  65   1 	73  65   1  	74  65   1  	75  65   1  	76  65   1  
+	 01-JAN-2020	 1.381886	    1.372270	    1.223075	    1.253599	    0.001297	    -0.00190	    -0.00190	    -0.00191	    -0.00191	    
+	 01-JAN-2020	 1.470191	    1.414728	    1.374870	    1.347403	    0.001297	    -0.00127	    -0.00127	    -0.00126	    -0.00127	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BFLOWK      	BFLOWK      	BFLOWK      	BFLOWK      	BFLOWK      	BFLOWK      	BFLOWK      	BFLOWK      	BFLOWK      
+ 	            	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	77  65   1  	106  65   1 	107  65   1 	108  65   1 	109  65   1 	137  65   1 	138  65   1 	139  65   1 	140  65   1 
+	 01-JAN-2020	 -0.00191	    -1.09247	    0.181636	    0.223287	    0.268251	    -95.7615	    22.80014	    23.04318	    -94.7940	    
+	 01-JAN-2020	 -0.00128	    -1.68302	    -0.01497	    -0.00014	    0.000284	    -0.00870	    -0.00427	    -0.00425	    -0.00768	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BFLOWK      	BFLOWK      	BPR         	BPR         	BPR         	BPR         	BPR         	BPR         	BPR         
+ 	            	SM3/DAY     	SM3/DAY     	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	141  65   1 	142  65   1 	73  65   1  	74  65   1  	75  65   1  	76  65   1  	77  65   1  	78  65   1  	79  65   1  
+	 01-JAN-2020	 -94.0650	    0.134184	    112.5810	    112.5760	    112.5730	    112.5720	    112.5740	    112.5800	    112.5880	    
+	 01-JAN-2020	 -0.00731	    0.120676	    112.5810	    112.5759	    112.5726	    112.5718	    112.5739	    112.5793	    112.5877	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BPR         	BPR         	BPR         	BPR         	BPR         	BPR         	BPR         	BPR         	BPR         
+ 	            	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	80  65   1  	81  65   1  	82  65   1  	83  65   1  	84  65   1  	85  65   1  	86  65   1  	87  65   1  	88  65   1  
+	 01-JAN-2020	 112.5990	    112.6120	    112.6270	    112.6430	    112.6590	    112.6760	    112.6940	    112.7120	    112.7310	    
+	 01-JAN-2020	 112.5987	    112.6118	    112.6264	    112.6421	    112.6585	    112.6756	    112.6932	    112.7113	    112.7301	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BPR         	BPR         	BPR         	BPR         	BPR         	BPR         	BPR         	BPR         	BPR         
+ 	            	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	89  65   1  	90  65   1  	91  65   1  	92  65   1  	93  65   1  	94  65   1  	95  65   1  	96  65   1  	97  65   1  
+	 01-JAN-2020	 112.7500	    112.7720	    112.7950	    112.8220	    112.8510	    112.8850	    112.9210	    112.9600	    113.0010	    
+	 01-JAN-2020	 112.7499	    112.7712	    112.7948	    112.8212	    112.8509	    112.8842	    112.9206	    112.9597	    113.0005	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BPR         	BPR         	BPR         	BPR         	BPR         	BPR         	BPR         	BPR         	BPR         
+ 	            	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	98  65   1  	99  65   1  	100  65   1 	101  65   1 	102  65   1 	103  65   1 	104  65   1 	105  65   1 	106  65   1 
+	 01-JAN-2020	 113.0430	    113.0860	    113.1280	    113.1700	    113.2110	    113.2530	    113.2950	    113.3420	    113.4680	    
+	 01-JAN-2020	 113.0425	    113.0852	    113.1278	    113.1697	    113.2108	    113.2522	    113.2947	    113.3419	    113.4680	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BPR         	BPR         	BPR         	BPR         	BPR         	BPR         	BPR         	BPR         	BPR         
+ 	            	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	107  65   1 	108  65   1 	109  65   1 	110  65   1 	115  65   1 	120  65   1 	125  65   1 	130  65   1 	135  65   1 
+	 01-JAN-2020	 113.8100	    114.2000	    114.6210	    115.0740	    117.6950	    120.5690	    123.2590	    125.4740	    131.1570	    
+	 01-JAN-2020	 113.8099	    114.1999	    114.6208	    115.0736	    117.6949	    120.5691	    123.2587	    125.4742	    131.1569	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BPR         	BPR         	BPR         	BPR         	BPR         	BPR         	BPR         	BGPR        	BGPR        
+ 	            	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	136  65   1 	137  65   1 	138  65   1 	139  65   1 	140  65   1 	141  65   1 	142  65   1 	73  65   1  	74  65   1  
+	 01-JAN-2020	 132.6430	    133.2340	    133.4340	    133.6610	    134.1420	    134.8260	    131.2100	    112.5810	    112.5760	    
+	 01-JAN-2020	 132.6429	    133.2348	    133.4344	    133.6617	    134.1427	    134.8269	    131.2100	    112.5810	    112.5759	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BGPR        	BGPR        	BGPR        	BGPR        	BGPR        	BGPR        	BGPR        	BGPR        	BGPR        
+ 	            	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	75  65   1  	76  65   1  	77  65   1  	78  65   1  	79  65   1  	80  65   1  	81  65   1  	82  65   1  	83  65   1  
+	 01-JAN-2020	 112.5730	    112.5720	    112.5740	    112.5800	    112.5880	    112.5990	    112.6120	    112.6270	    112.6430	    
+	 01-JAN-2020	 112.5726	    112.5718	    112.5739	    112.5793	    112.5877	    112.5987	    112.6118	    112.6264	    112.6421	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BGPR        	BGPR        	BGPR        	BGPR        	BGPR        	BGPR        	BGPR        	BGPR        	BGPR        
+ 	            	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	84  65   1  	85  65   1  	86  65   1  	87  65   1  	88  65   1  	89  65   1  	90  65   1  	91  65   1  	92  65   1  
+	 01-JAN-2020	 112.6590	    112.6760	    112.6940	    112.7120	    112.7310	    112.7500	    112.7720	    112.7950	    112.8220	    
+	 01-JAN-2020	 112.6585	    112.6756	    112.6932	    112.7113	    112.7301	    112.7499	    112.7712	    112.7948	    112.8212	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BGPR        	BGPR        	BGPR        	BGPR        	BGPR        	BGPR        	BGPR        	BGPR        	BGPR        
+ 	            	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	93  65   1  	94  65   1  	95  65   1  	96  65   1  	97  65   1  	98  65   1  	99  65   1  	100  65   1 	101  65   1 
+	 01-JAN-2020	 112.8510	    112.8850	    112.9210	    112.9600	    113.0010	    113.0430	    113.0860	    113.1280	    113.1700	    
+	 01-JAN-2020	 112.8509	    112.8842	    112.9206	    112.9597	    113.0005	    113.0425	    113.0852	    113.1278	    113.1697	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BGPR        	BGPR        	BGPR        	BGPR        	BGPR        	BGPR        	BGPR        	BGPR        	BGPR        
+ 	            	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	102  65   1 	103  65   1 	104  65   1 	105  65   1 	106  65   1 	107  65   1 	108  65   1 	109  65   1 	110  65   1 
+	 01-JAN-2020	 113.2110	    113.2530	    113.2950	    113.3420	    113.4680	    113.8100	    114.2000	    114.6210	    115.0740	    
+	 01-JAN-2020	 113.2108	    113.2522	    113.2947	    113.3419	    113.4680	    113.8099	    114.1999	    114.6208	    115.0736	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BGPR        	BGPR        	BGPR        	BGPR        	BGPR        	BGPR        	BGPR        	BGPR        	BGPR        
+ 	            	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	115  65   1 	120  65   1 	125  65   1 	130  65   1 	135  65   1 	136  65   1 	137  65   1 	138  65   1 	139  65   1 
+	 01-JAN-2020	 117.6950	    120.5690	    123.2590	    125.4740	    131.1570	    132.6430	    133.2340	    133.4340	    133.6610	    
+	 01-JAN-2020	 117.6949	    120.5691	    123.2587	    125.4742	    131.1569	    132.6429	    133.2348	    133.4344	    133.6617	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BGPR        	BGPR        	BGPR        	BWPR        	BWPR        	BWPR        	BWPR        	BWPR        	BWPR        
+ 	            	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	140  65   1 	141  65   1 	142  65   1 	73  65   1  	74  65   1  	75  65   1  	76  65   1  	77  65   1  	78  65   1  
+	 01-JAN-2020	 134.1420	    134.8260	    131.2100	    105.2044	    105.3109	    105.3670	    105.3988	    105.4401	    105.5019	    
+	 01-JAN-2020	 134.1427	    134.8269	    131.2100	    105.2046	    105.3109	    105.3667	    105.3987	    105.4402	    105.5013	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BWPR        	BWPR        	BWPR        	BWPR        	BWPR        	BWPR        	BWPR        	BWPR        	BWPR        
+ 	            	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	79  65   1  	80  65   1  	81  65   1  	82  65   1  	83  65   1  	84  65   1  	85  65   1  	86  65   1  	87  65   1  
+	 01-JAN-2020	 105.5853	    105.6882	    105.8094	    105.9490	    106.0962	    106.2533	    106.4211	    106.5966	    106.7786	    
+	 01-JAN-2020	 105.5851	    105.6880	    105.8093	    105.9484	    106.0955	    106.2529	    106.4206	    106.5957	    106.7778	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BWPR        	BWPR        	BWPR        	BWPR        	BWPR        	BWPR        	BWPR        	BWPR        	BWPR        
+ 	            	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	88  65   1  	89  65   1  	90  65   1  	91  65   1  	92  65   1  	93  65   1  	94  65   1  	95  65   1  	96  65   1  
+	 01-JAN-2020	 106.9681	    107.1642	    107.3765	    107.6127	    107.8791	    108.1770	    108.5193	    108.9030	    109.3323	    
+	 01-JAN-2020	 106.9671	    107.1643	    107.3758	    107.6124	    107.8782	    108.1770	    108.5187	    108.9025	    109.3319	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BWPR        	BWPR        	BWPR        	BWPR        	BWPR        	BWPR        	BWPR        	BWPR        	BWPR        
+ 	            	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	97  65   1  	98  65   1  	99  65   1  	100  65   1 	101  65   1 	102  65   1 	103  65   1 	104  65   1 	105  65   1 
+	 01-JAN-2020	 109.8653	    110.5600	    111.0261	    111.3994	    111.7956	    112.1908	    112.5531	    112.8261	    113.1187	    
+	 01-JAN-2020	 109.8650	    110.5593	    111.0254	    111.3991	    111.7954	    112.1907	    112.5523	    112.8258	    113.1186	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BWPR        	BWPR        	BWPR        	BWPR        	BWPR        	BWPR        	BWPR        	BWPR        	BWPR        
+ 	            	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	106  65   1 	107  65   1 	108  65   1 	109  65   1 	110  65   1 	115  65   1 	120  65   1 	125  65   1 	130  65   1 
+	 01-JAN-2020	 113.4469	    113.8100	    114.2000	    114.6210	    115.0740	    117.6950	    120.5690	    123.2590	    125.4740	    
+	 01-JAN-2020	 113.4469	    113.8099	    114.1999	    114.6208	    115.0736	    117.6949	    120.5691	    123.2587	    125.4742	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BWPR        	BWPR        	BWPR        	BWPR        	BWPR        	BWPR        	BWPR        	BWPR        	BGSAT       
+ 	            	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	            
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	135  65   1 	136  65   1 	137  65   1 	138  65   1 	139  65   1 	140  65   1 	141  65   1 	142  65   1 	73  65   1  
+	 01-JAN-2020	 131.1570	    132.6430	    133.2340	    133.4340	    133.6610	    134.1420	    134.8260	    131.2100	    0.843360	    
+	 01-JAN-2020	 131.1569	    132.6429	    133.2348	    133.4344	    133.6617	    134.1427	    134.8269	    131.2100	    0.843360	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BGSAT       	BGSAT       	BGSAT       	BGSAT       	BGSAT       	BGSAT       	BGSAT       	BGSAT       	BGSAT       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	74  65   1  	75  65   1  	76  65   1  	77  65   1  	78  65   1  	79  65   1  	80  65   1  	81  65   1  	82  65   1  
+	 01-JAN-2020	 0.843326	    0.843308	    0.843298	    0.843286	    0.843269	    0.843246	    0.843218	    0.843185	    0.843147	    
+	 01-JAN-2020	 0.843326	    0.843308	    0.843298	    0.843286	    0.843269	    0.843246	    0.843218	    0.843185	    0.843147	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BGSAT       	BGSAT       	BGSAT       	BGSAT       	BGSAT       	BGSAT       	BGSAT       	BGSAT       	BGSAT       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	83  65   1  	84  65   1  	85  65   1  	86  65   1  	87  65   1  	88  65   1  	89  65   1  	90  65   1  	91  65   1  
+	 01-JAN-2020	 0.843107	    0.843064	    0.843018	    0.842970	    0.842920	    0.842868	    0.842814	    0.842756	    0.842691	    
+	 01-JAN-2020	 0.843107	    0.843064	    0.843018	    0.842970	    0.842920	    0.842868	    0.842814	    0.842756	    0.842691	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BGSAT       	BGSAT       	BGSAT       	BGSAT       	BGSAT       	BGSAT       	BGSAT       	BGSAT       	BGSAT       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	92  65   1  	93  65   1  	94  65   1  	95  65   1  	96  65   1  	97  65   1  	98  65   1  	99  65   1  	100  65   1 
+	 01-JAN-2020	 0.842618	    0.842536	    0.842442	    0.842336	    0.842217	    0.842067	    0.841868	    0.841739	    0.841638	    
+	 01-JAN-2020	 0.842618	    0.842536	    0.842442	    0.842336	    0.842217	    0.842067	    0.841868	    0.841739	    0.841638	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BGSAT       	BGSAT       	BGSAT       	BGSAT       	BGSAT       	BGSAT       	BGSAT       	BGSAT       	BGSAT       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	101  65   1 	102  65   1 	103  65   1 	104  65   1 	105  65   1 	106  65   1 	107  65   1 	108  65   1 	109  65   1 
+	 01-JAN-2020	 0.841530	    0.841422	    0.832595	    0.810985	    0.679481	    0.001812	           0	           0	           0	    
+	 01-JAN-2020	 0.841530	    0.841422	    0.832598	    0.810989	    0.679506	    0.001812	    8.26E-10	    -1.8E-11	    8.06E-12	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BGSAT       	BGSAT       	BGSAT       	BGSAT       	BGSAT       	BGSAT       	BGSAT       	BGSAT       	BGSAT       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	110  65   1 	115  65   1 	120  65   1 	125  65   1 	130  65   1 	135  65   1 	136  65   1 	137  65   1 	138  65   1 
+	 01-JAN-2020	        0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 01-JAN-2020	 1.33E-11	    -2.8E-14	           0	           0	           0	           0	           0	           0	           0	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BGSAT       	BGSAT       	BGSAT       	BGSAT       	BVGAS       	BVGAS       	BVGAS       	BVGAS       	BVGAS       
+ 	            	            	            	            	            	CP          	CP          	CP          	CP          	CP          
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	139  65   1 	140  65   1 	141  65   1 	142  65   1 	73  65   1  	74  65   1  	75  65   1  	76  65   1  	77  65   1  
+	 01-JAN-2020	        0	           0	           0	           0	    0.021391	    0.021391	    0.021390	    0.021390	    0.021390	    
+	 01-JAN-2020	        0	           0	           0	           0	    0.021391	    0.021391	    0.021390	    0.021390	    0.021390	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BVGAS       	BVGAS       	BVGAS       	BVGAS       	BVGAS       	BVGAS       	BVGAS       	BVGAS       	BVGAS       
+ 	            	CP          	CP          	CP          	CP          	CP          	CP          	CP          	CP          	CP          
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	78  65   1  	79  65   1  	80  65   1  	81  65   1  	82  65   1  	83  65   1  	84  65   1  	85  65   1  	86  65   1  
+	 01-JAN-2020	 0.021391	    0.021391	    0.021391	    0.021391	    0.021392	    0.021392	    0.021393	    0.021393	    0.021394	    
+	 01-JAN-2020	 0.021391	    0.021391	    0.021391	    0.021391	    0.021392	    0.021392	    0.021393	    0.021393	    0.021394	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BVGAS       	BVGAS       	BVGAS       	BVGAS       	BVGAS       	BVGAS       	BVGAS       	BVGAS       	BVGAS       
+ 	            	CP          	CP          	CP          	CP          	CP          	CP          	CP          	CP          	CP          
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	87  65   1  	88  65   1  	89  65   1  	90  65   1  	91  65   1  	92  65   1  	93  65   1  	94  65   1  	95  65   1  
+	 01-JAN-2020	 0.021394	    0.021395	    0.021395	    0.021396	    0.021396	    0.021397	    0.021398	    0.021399	    0.021400	    
+	 01-JAN-2020	 0.021394	    0.021395	    0.021395	    0.021396	    0.021396	    0.021397	    0.021398	    0.021399	    0.021400	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BVGAS       	BVGAS       	BVGAS       	BVGAS       	BVGAS       	BVGAS       	BVGAS       	BVGAS       	BVGAS       
+ 	            	CP          	CP          	CP          	CP          	CP          	CP          	CP          	CP          	CP          
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	96  65   1  	97  65   1  	98  65   1  	99  65   1  	100  65   1 	101  65   1 	102  65   1 	103  65   1 	104  65   1 
+	 01-JAN-2020	 0.021401	    0.021402	    0.021403	    0.021404	    0.021405	    0.021406	    0.021407	    0.021408	    0.021409	    
+	 01-JAN-2020	 0.021401	    0.021402	    0.021403	    0.021404	    0.021405	    0.021406	    0.021407	    0.021408	    0.021409	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BVGAS       	BVGAS       	BVGAS       	BVGAS       	BVGAS       	BVGAS       	BVGAS       	BVGAS       	BVGAS       
+ 	            	CP          	CP          	CP          	CP          	CP          	CP          	CP          	CP          	CP          
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	105  65   1 	106  65   1 	107  65   1 	108  65   1 	109  65   1 	110  65   1 	115  65   1 	120  65   1 	125  65   1 
+	 01-JAN-2020	 0.021411	    0.021414	    0.021423	    0.021433	    0.021444	    0.021456	    0.021525	    0.021601	    0.021673	    
+	 01-JAN-2020	 0.021411	    0.021414	    0.021423	    0.021433	    0.021444	    0.021456	    0.021525	    0.021601	    0.021673	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BVGAS       	BVGAS       	BVGAS       	BVGAS       	BVGAS       	BVGAS       	BVGAS       	BVGAS       	BVGAS       
+ 	            	CP          	CP          	CP          	CP          	CP          	CP          	CP          	CP          	CP          
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	130  65   1 	135  65   1 	136  65   1 	137  65   1 	138  65   1 	139  65   1 	140  65   1 	141  65   1 	142  65   1 
+	 01-JAN-2020	 0.021733	    0.021887	    0.021928	    0.021944	    0.021950	    0.021956	    0.021969	    0.021988	    0.021889	    
+	 01-JAN-2020	 0.021733	    0.021887	    0.021928	    0.021944	    0.021950	    0.021956	    0.021969	    0.021988	    0.021889	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BDENG       	BDENG       	BDENG       	BDENG       	BDENG       	BDENG       	BDENG       	BDENG       	BDENG       
+ 	            	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	73  65   1  	74  65   1  	75  65   1  	76  65   1  	77  65   1  	78  65   1  	79  65   1  	80  65   1  	81  65   1  
+	 01-JAN-2020	 125.6161	    125.6106	    125.6074	    125.6063	    125.6085	    125.6150	    125.6236	    125.6355	    125.6496	    
+	 01-JAN-2020	 125.6160	    125.6105	    125.6070	    125.6061	    125.6084	    125.6142	    125.6233	    125.6352	    125.6494	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BDENG       	BDENG       	BDENG       	BDENG       	BDENG       	BDENG       	BDENG       	BDENG       	BDENG       
+ 	            	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	82  65   1  	83  65   1  	84  65   1  	85  65   1  	86  65   1  	87  65   1  	88  65   1  	89  65   1  	90  65   1  
+	 01-JAN-2020	 125.6659	    125.6832	    125.7005	    125.7189	    125.7384	    125.7579	    125.7785	    125.7991	    125.8229	    
+	 01-JAN-2020	 125.6653	    125.6823	    125.7000	    125.7185	    125.7375	    125.7572	    125.7775	    125.7990	    125.8221	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BDENG       	BDENG       	BDENG       	BDENG       	BDENG       	BDENG       	BDENG       	BDENG       	BDENG       
+ 	            	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	91  65   1  	92  65   1  	93  65   1  	94  65   1  	95  65   1  	96  65   1  	97  65   1  	98  65   1  	99  65   1  
+	 01-JAN-2020	 125.8478	    125.8770	    125.9084	    125.9452	    125.9842	    126.0265	    126.0708	    126.1163	    126.1629	    
+	 01-JAN-2020	 125.8476	    125.8761	    125.9083	    125.9443	    125.9838	    126.0261	    126.0703	    126.1158	    126.1620	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BDENG       	BDENG       	BDENG       	BDENG       	BDENG       	BDENG       	BDENG       	BDENG       	BDENG       
+ 	            	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	100  65   1 	101  65   1 	102  65   1 	103  65   1 	104  65   1 	105  65   1 	106  65   1 	107  65   1 	108  65   1 
+	 01-JAN-2020	 126.2084	    126.2539	    126.2982	    126.3437	    126.3892	    126.4401	    126.5765	    126.9469	    127.3688	    
+	 01-JAN-2020	 126.2082	    126.2535	    126.2980	    126.3428	    126.3889	    126.4400	    126.5765	    126.9467	    127.3686	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BDENG       	BDENG       	BDENG       	BDENG       	BDENG       	BDENG       	BDENG       	BDENG       	BDENG       
+ 	            	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	109  65   1 	110  65   1 	115  65   1 	120  65   1 	125  65   1 	130  65   1 	135  65   1 	136  65   1 	137  65   1 
+	 01-JAN-2020	 127.8237	    128.3133	    131.1418	    134.2340	    137.1197	    139.4894	    145.5413	    147.1171	    147.7429	    
+	 01-JAN-2020	 127.8235	    128.3128	    131.1416	    134.2341	    137.1194	    139.4896	    145.5412	    147.1169	    147.7437	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BDENG       	BDENG       	BDENG       	BDENG       	BDENG       	BDENW       	BDENW       	BDENW       	BDENW       
+ 	            	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	138  65   1 	139  65   1 	140  65   1 	141  65   1 	142  65   1 	73  65   1  	74  65   1  	75  65   1  	76  65   1  
+	 01-JAN-2020	 147.9546	    148.1950	    148.7040	    149.4265	    145.5975	    1070.014	    1070.019	    1070.021	    1070.023	    
+	 01-JAN-2020	 147.9551	    148.1957	    148.7048	    149.4274	    145.5975	    1070.014	    1070.019	    1070.021	    1070.023	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BDENW       	BDENW       	BDENW       	BDENW       	BDENW       	BDENW       	BDENW       	BDENW       	BDENW       
+ 	            	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	77  65   1  	78  65   1  	79  65   1  	80  65   1  	81  65   1  	82  65   1  	83  65   1  	84  65   1  	85  65   1  
+	 01-JAN-2020	 1070.025	    1070.028	    1070.031	    1070.036	    1070.042	    1070.048	    1070.055	    1070.062	    1070.070	    
+	 01-JAN-2020	 1070.025	    1070.027	    1070.031	    1070.036	    1070.042	    1070.048	    1070.055	    1070.062	    1070.070	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BDENW       	BDENW       	BDENW       	BDENW       	BDENW       	BDENW       	BDENW       	BDENW       	BDENW       
+ 	            	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	86  65   1  	87  65   1  	88  65   1  	89  65   1  	90  65   1  	91  65   1  	92  65   1  	93  65   1  	94  65   1  
+	 01-JAN-2020	 1070.078	    1070.086	    1070.095	    1070.104	    1070.114	    1070.125	    1070.137	    1070.151	    1070.166	    
+	 01-JAN-2020	 1070.078	    1070.086	    1070.095	    1070.104	    1070.114	    1070.125	    1070.137	    1070.151	    1070.166	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BDENW       	BDENW       	BDENW       	BDENW       	BDENW       	BDENW       	BDENW       	BDENW       	BDENW       
+ 	            	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	95  65   1  	96  65   1  	97  65   1  	98  65   1  	99  65   1  	100  65   1 	101  65   1 	102  65   1 	103  65   1 
+	 01-JAN-2020	 1070.184	    1070.204	    1070.228	    1070.260	    1070.282	    1070.299	    1070.317	    1070.335	    1070.352	    
+	 01-JAN-2020	 1070.184	    1070.204	    1070.228	    1070.260	    1070.282	    1070.299	    1070.317	    1070.335	    1070.352	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BDENW       	BDENW       	BDENW       	BDENW       	BDENW       	BDENW       	BDENW       	BDENW       	BDENW       
+ 	            	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	104  65   1 	105  65   1 	106  65   1 	107  65   1 	108  65   1 	109  65   1 	110  65   1 	115  65   1 	120  65   1 
+	 01-JAN-2020	 1070.365	    1070.378	    1070.393	    1070.410	    1070.428	    1070.447	    1070.468	    1070.589	    1070.721	    
+	 01-JAN-2020	 1070.365	    1070.378	    1070.393	    1070.410	    1070.428	    1070.447	    1070.468	    1070.589	    1070.721	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BDENW       	BDENW       	BDENW       	BDENW       	BDENW       	BDENW       	BDENW       	BDENW       	BDENW       
+ 	            	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       	KG/M3       
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	125  65   1 	130  65   1 	135  65   1 	136  65   1 	137  65   1 	138  65   1 	139  65   1 	140  65   1 	141  65   1 
+	 01-JAN-2020	 1070.845	    1070.947	    1071.209	    1071.277	    1071.304	    1071.313	    1071.324	    1071.346	    1071.378	    
+	 01-JAN-2020	 1070.845	    1070.947	    1071.209	    1071.277	    1071.304	    1071.313	    1071.324	    1071.346	    1071.378	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BDENW       	BGKR        	BGKR        	BGKR        	BGKR        	BGKR        	BGKR        	BGKR        	BGKR        
+ 	            	KG/M3       	            	            	            	            	            	            	            	            
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	142  65   1 	73  65   1  	74  65   1  	75  65   1  	76  65   1  	77  65   1  	78  65   1  	79  65   1  	80  65   1  
+	 01-JAN-2020	 1071.211	    0.886010	    0.885938	    0.885900	    0.885879	    0.885854	    0.885818	    0.885770	    0.885711	    
+	 01-JAN-2020	 1071.211	    0.886010	    0.885938	    0.885900	    0.885879	    0.885854	    0.885818	    0.885770	    0.885711	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BGKR        	BGKR        	BGKR        	BGKR        	BGKR        	BGKR        	BGKR        	BGKR        	BGKR        
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	81  65   1  	82  65   1  	83  65   1  	84  65   1  	85  65   1  	86  65   1  	87  65   1  	88  65   1  	89  65   1  
+	 01-JAN-2020	 0.885641	    0.885561	    0.885477	    0.885386	    0.885289	    0.885188	    0.885083	    0.884973	    0.884859	    
+	 01-JAN-2020	 0.885641	    0.885561	    0.885477	    0.885386	    0.885289	    0.885188	    0.885083	    0.884973	    0.884859	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BGKR        	BGKR        	BGKR        	BGKR        	BGKR        	BGKR        	BGKR        	BGKR        	BGKR        
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	90  65   1  	91  65   1  	92  65   1  	93  65   1  	94  65   1  	95  65   1  	96  65   1  	97  65   1  	98  65   1  
+	 01-JAN-2020	 0.884737	    0.884600	    0.884447	    0.884274	    0.884076	    0.883852	    0.883602	    0.883286	    0.882866	    
+	 01-JAN-2020	 0.884737	    0.884600	    0.884447	    0.884274	    0.884076	    0.883852	    0.883602	    0.883285	    0.882866	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BGKR        	BGKR        	BGKR        	BGKR        	BGKR        	BGKR        	BGKR        	BGKR        	BGKR        
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	99  65   1  	100  65   1 	101  65   1 	102  65   1 	103  65   1 	104  65   1 	105  65   1 	106  65   1 	107  65   1 
+	 01-JAN-2020	 0.882594	    0.882382	    0.882154	    0.881927	    0.863522	    0.819299	    0.575132	    1.94E-05	           0	    
+	 01-JAN-2020	 0.882594	    0.882382	    0.882154	    0.881926	    0.863528	    0.819307	    0.575174	    1.94E-05	    8.83E-12	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BGKR        	BGKR        	BGKR        	BGKR        	BGKR        	BGKR        	BGKR        	BGKR        	BGKR        
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	108  65   1 	109  65   1 	110  65   1 	115  65   1 	120  65   1 	125  65   1 	130  65   1 	135  65   1 	136  65   1 
+	 01-JAN-2020	        0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 01-JAN-2020	        0	    8.62E-14	    1.42E-13	           0	           0	           0	           0	           0	           0	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BGKR        	BGKR        	BGKR        	BGKR        	BGKR        	BGKR        	BWKR        	BWKR        	BWKR        
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	137  65   1 	138  65   1 	139  65   1 	140  65   1 	141  65   1 	142  65   1 	73  65   1  	74  65   1  	75  65   1  
+	 01-JAN-2020	        0	           0	           0	           0	           0	           0	    7.89E-05	    7.93E-05	    7.95E-05	    
+	 01-JAN-2020	        0	           0	           0	           0	           0	           0	    7.89E-05	    7.93E-05	    7.95E-05	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BWKR        	BWKR        	BWKR        	BWKR        	BWKR        	BWKR        	BWKR        	BWKR        	BWKR        
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	76  65   1  	77  65   1  	78  65   1  	79  65   1  	80  65   1  	81  65   1  	82  65   1  	83  65   1  	84  65   1  
+	 01-JAN-2020	 7.96E-05	    7.98E-05	    8.00E-05	    8.03E-05	    8.06E-05	    8.10E-05	    8.14E-05	    8.19E-05	    8.24E-05	    
+	 01-JAN-2020	 7.96E-05	    7.98E-05	    8.00E-05	    8.03E-05	    8.06E-05	    8.10E-05	    8.14E-05	    8.19E-05	    8.24E-05	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BWKR        	BWKR        	BWKR        	BWKR        	BWKR        	BWKR        	BWKR        	BWKR        	BWKR        
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	85  65   1  	86  65   1  	87  65   1  	88  65   1  	89  65   1  	90  65   1  	91  65   1  	92  65   1  	93  65   1  
+	 01-JAN-2020	 8.30E-05	    8.35E-05	    8.41E-05	    8.48E-05	    8.54E-05	    8.61E-05	    8.69E-05	    8.77E-05	    8.87E-05	    
+	 01-JAN-2020	 8.30E-05	    8.35E-05	    8.41E-05	    8.48E-05	    8.54E-05	    8.61E-05	    8.69E-05	    8.77E-05	    8.87E-05	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BWKR        	BWKR        	BWKR        	BWKR        	BWKR        	BWKR        	BWKR        	BWKR        	BWKR        
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	94  65   1  	95  65   1  	96  65   1  	97  65   1  	98  65   1  	99  65   1  	100  65   1 	101  65   1 	102  65   1 
+	 01-JAN-2020	 8.98E-05	    9.11E-05	    9.25E-05	    9.43E-05	    9.66E-05	    9.82E-05	    9.94E-05	    0.000101	    0.000102	    
+	 01-JAN-2020	 8.98E-05	    9.11E-05	    9.25E-05	    9.43E-05	    9.66E-05	    9.82E-05	    9.94E-05	    0.000101	    0.000102	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BWKR        	BWKR        	BWKR        	BWKR        	BWKR        	BWKR        	BWKR        	BWKR        	BWKR        
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	103  65   1 	104  65   1 	105  65   1 	106  65   1 	107  65   1 	108  65   1 	109  65   1 	110  65   1 	115  65   1 
+	 01-JAN-2020	 0.000422	    0.002132	    0.040257	    0.995758	    1.000000	    1.000000	    1.000000	    1.000000	    1.000000	    
+	 01-JAN-2020	 0.000422	    0.002132	    0.040245	    0.995758	    1.000000	    1.000000	    1.000000	    1.000000	    1.000000	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BWKR        	BWKR        	BWKR        	BWKR        	BWKR        	BWKR        	BWKR        	BWKR        	BWKR        
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	120  65   1 	125  65   1 	130  65   1 	135  65   1 	136  65   1 	137  65   1 	138  65   1 	139  65   1 	140  65   1 
+	 01-JAN-2020	 1.000000	    1.000000	    1.000000	    1.000000	    1.000000	    1.000000	    1.000000	    1.000000	    1.000000	    
+	 01-JAN-2020	 1.000000	    1.000000	    1.000000	    1.000000	    1.000000	    1.000000	    1.000000	    1.000000	    1.000000	    
+
+	SUMMARY OF RUN BASE                                                                                                                                                                                                                                                                                                                                                                                                                                                                      	
+ 	DATE        	BWKR        	BWKR                                                                                                   
+ 	            	            	                                                                                                       
+ 	            	            	                                                                                                       
+ 	            	141  65   1 	142  65   1                                                                                            
+	 01-JAN-2020	 1.000000	    1.000000	                                                                                               
+	 01-JAN-2020	 1.000000	    1.000000	                                                                                               
